@@ -1,0 +1,30 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "Use cases and demonstrations of Gentleman",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build geodes-cms",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentlemancp/demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentlemancp/demos/issues"
+  },
+  "homepage": "https://github.com/gentlemancp/demos#readme",
+  "devDependencies": {
+    "vite": "^4.4.7"
+  },
+  "dependencies": {
+    "yaml": "^2.3.1",
+    "zenkai": "^0.10.0"
+  }
+}
